@@ -71,7 +71,6 @@ HDRS = \
   swtrace.h \
   timers.h \
   timing.h \
-  tma.h \
   tracebit.h \
   trainer.h \
   usage.h \
