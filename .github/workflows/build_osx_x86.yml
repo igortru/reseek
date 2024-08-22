@@ -38,7 +38,7 @@ jobs:
       - name: Upload binary artifact
         uses: actions/upload-artifact@v4
         with:
-          name: muscle-osx-binary_x86
+          name: reseek-osx-binary_x86
           path: /Users/runner/work/reseek/reseek/bin/reseek
       - name: Upload make.stderr artifact
         uses: actions/upload-artifact@v4
